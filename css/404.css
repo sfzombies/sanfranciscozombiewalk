@@ -1,0 +1,46 @@
+@import url("/fonts/dirtyego/stylesheet.css");
+
+body {
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  color: #fff;
+  font-family: dirty_egoregular;
+}
+
+html {
+  width: 100%;
+  height: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-transform: uppercase;
+  font-size: 400%;
+}
+
+h1 {
+  background-color: #3C6640;
+  text-align: center;
+  padding: 50px;
+}
+h2 {
+  background-color: #D03233;
+  text-align: center;
+  margin: 0;
+}
+img {
+  margin: 0;
+  width: 100%;
+}
+
+h3 {
+  font-size: 200%;
+  text-align: right;
+  margin: 0;
+  padding: 0;
+}
