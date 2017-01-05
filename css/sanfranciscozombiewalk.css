@@ -66,8 +66,8 @@ h6 {
   .navbar-custom.top-nav-collapse {
     border-bottom: 1px solid rgba(255,255,255,.3);
   }
-  
-  
+
+
   h1 {
     font-size: 550%;
   }
@@ -236,7 +236,7 @@ section {
 
 .scontact {
   text-align: center;
-  
+
 }
 
 .nav li a {
@@ -260,7 +260,7 @@ ul.places {
 #foodbank {
   background: url(../img/hungry.jpg) no-repeat center center;
   background-size: cover;
-  /* 
+  /*
   color: black;
   */
 }
@@ -273,4 +273,14 @@ ul.places {
 
 #map {
     max-width: 100%;
+}
+
+.content {
+  display: block;
+  margin: 50px auto 0 auto;
+  width: 620px;
+  text-align: center;
+}
+.content h2 {
+  font-size: 24px;
 }
